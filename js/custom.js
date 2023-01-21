@@ -19,7 +19,10 @@
     $('body').vegas({
         slides: [
             { src: 'images/slide-image01.jpeg' },
-            { src: 'images/slide-image02.jpeg' }
+            { src: 'images/slide-image02.png' }
+			      { src: 'images/slide-image03.png' }
+			      { src: 'images/slide-image04.png' }
+			      { src: 'images/slide-image05.png' }
         ],
         timer: false,
         transition: [ 'zoomOut', ]
